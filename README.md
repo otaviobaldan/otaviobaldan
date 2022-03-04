@@ -1,6 +1,6 @@
 <h2 align="center">Hey!</h2>
 
-Hi! I am a Backend Software Engineer with 11+ years of experience based in São Paulo/Brazil, currently working as a **Senior Backend Software Engineer @[Mercado Pago / Mercado Livre](https://careers-meli.mercadolibre.com/pt)** (we're hiring!).
+Hi! I am a Backend Software Engineer with 11+ years of experience based in São Paulo/Brazil, currently working as a **Senior Backend Software Engineer @Ring.**
 
 Nowadays my mainly stack is Golang, but as a good Software Enginner that isn't a rule, I can learn fast and use other stacks.
 
